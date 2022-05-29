@@ -1,1 +1,2 @@
 # Recommendation-Engine
+This is a basic recommendation engine project which asks the user to enter a movie name and produces top 20 recommended movies based on his entry.
